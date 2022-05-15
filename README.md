@@ -46,8 +46,14 @@
 <br>
 
 # AWS SAA 
+- [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 SAA-C02 수험 가이드](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
 - [AWS SAA-C02 합격 후기](https://wbluke.tistory.com/53)
-
+- [AWS 공인 솔루션 아키텍트 - 어소시에이트 자격증 취득 후기](https://myeongjae.kim/blog/2020/09/20/aws-saa-c02-certification-acquired)
+- [AWS SAA-C2 온라인 시험 합격 후기](https://jenakim47.tistory.com/48)
+- [AWS Certified SAA-C02 합격후기](https://anggeum.tistory.com/entry/AWS-Certified-SAA-C02Solution-Architect-Associate-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0)
+- [AWS Solutions Architect Associate 자격증 취득 후기(AWS SAA 합격 후기)](https://contradicto-lee.tistory.com/85#%EC%--%BC%EB%A-%--%EB%--%--%--%EC%A-%--%EB%B-%--%ED%--%--%EC%--%B-%EC%-A%--%-F)
+- [AWS Certified Solutions Architect - Associate (SAA-C02) (2021-05-30)](https://www.bogeun.io/f125f7f0-49d9-407f-ac25-4f38720844ea)
+- [ExamTopics](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c02/)
 <br>
 <br>
 
