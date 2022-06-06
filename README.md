@@ -54,6 +54,10 @@
 - [AWS Solutions Architect Associate 자격증 취득 후기(AWS SAA 합격 후기)](https://contradicto-lee.tistory.com/85#%EC%--%BC%EB%A-%--%EB%--%--%--%EC%A-%--%EB%B-%--%ED%--%--%EC%--%B-%EC%-A%--%-F)
 - [AWS Certified Solutions Architect - Associate (SAA-C02) (2021-05-30)](https://www.bogeun.io/f125f7f0-49d9-407f-ac25-4f38720844ea)
 - [ExamTopics](https://www.examtopics.com/exams/amazon/aws-certified-solutions-architect-associate-saa-c02/)
+- [AWS 공인 솔루션즈 아키텍트 – 어소시에이트(AWS Certified Solutions Architect Associate) 자격증 취득하기](https://blog.naver.com/PostView.naver?blogId=sehyunfa&logNo=221880333874&categoryNo=96&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1)
+- [AWS 자격증 시험 접수하기(시험 시간 30분 연장 방법, 시험 언어 선택하기, 집에서 온라인으로 시험보는 방법)](https://blog.naver.com/PostView.naver?blogId=sehyunfa&logNo=221870132290&categoryNo=96&parentCategoryNo=0&viewDate=&currentPage=1&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=1)
+- [AWS 학습 자료집 ](https://lsmman.tistory.com/38?category=911076)
+- [aws 클라우드 자격증 시험 신청하는법](https://tell-mia.tistory.com/32)
 <br>
 <br>
 
