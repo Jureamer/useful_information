@@ -141,3 +141,15 @@
 - [NHN](https://meetup.toast.com/)
 - [당근마켓](https://medium.com/daangn)
 - [라인](https://engineering.linecorp.com/ko/blog/)
+
+<br>
+<br>
+
+# 사이드프로젝트 플랫폼 (카페 제외)
+- [랫플](https://letspl.me/)
+- [비긴메이트](https://www.beginmate.com/)
+- [홀라](https://holaworld.io/)
+- [디스콰이엇](https://disquiet.io/about)
+- [디프만](https://www.depromeet.com/)
+- [데브폴리오](https://devfolio.kr/)
+- [커리어리](https://careerly.co.kr/lounge/collaborators?from=newsfeed&location=gnb)
