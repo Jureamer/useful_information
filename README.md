@@ -153,3 +153,4 @@
 - [디프만](https://www.depromeet.com/)
 - [데브폴리오](https://devfolio.kr/)
 - [커리어리](https://careerly.co.kr/lounge/collaborators?from=newsfeed&location=gnb)
+- [비사이드](https://bside.best/)
