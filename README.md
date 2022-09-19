@@ -17,6 +17,7 @@
 ](https://medium.com/harrythegreat/oh-my-zsh-iterm2%EB%A1%9C-%ED%84%B0%EB%AF%B8%EB%84%90%EC%9D%84-%EB%8D%94-%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C-a105f2c01bec)
 - [FZF로 ZSH 터미널 더 강력하게 사용하기](https://medium.com/harrythegreat/fzf%EB%A1%9C-zsh-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%8D%94-%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-730c20eb496b)
 - [oh-my-zsh-테마-및-유용한-플러그인-정리](https://proni.tistory.com/entry/oh-my-zsh-%ED%85%8C%EB%A7%88-%EB%B0%8F-%EC%9C%A0%EC%9A%A9%ED%95%9C-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%A0%95%EB%A6%AC)
+- [Terminal. 근데 이제 Oh-My-Zsh을 곁들인](https://zeddios.tistory.com/1207)
 
 <br>
 <br>
